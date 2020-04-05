@@ -1,0 +1,69 @@
+/*__________________________zayavka__________________________*/
+.rendered-form {
+  width: 65%;
+  margin: 0 auto;
+  padding: 20px;
+  border: none;
+  text-align: center;
+  background: #f8faff;
+  color: rgb(55, 71, 79);
+  font-size: 20px;
+  border-right: 2px dotted rgb(55, 71, 79);
+  border-left: 2px dotted rgb(55, 71, 79);
+}
+
+input[type="checkbox"] {
+  font-size: 20px;
+  border: none;
+  border-radius: 10%;
+}
+
+.rendered-form h2 {
+  text-align: center;
+}
+
+.btn-zajawa {
+  background: #9faab7;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  border-radius: 30px;
+  border-width: 2px;
+  border: none;
+  padding: 5px 10px;
+  color: #474a51;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+.btn-zajawa:hover {
+  background: #474a51;
+  color: #fff;
+}
+
+.formbuilder-button {
+  text-align: center;
+  margin: 10px;
+
+}
+
+.formbuilder-checkbox {
+  /*float: left;*/
+  /*margin: 2px;*/
+}
+
+.formbuilder-date {
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+.formbuilder-date input {
+  text-align: center;
+  color: #d6727c !important;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*__________________________zayavka__________________________*/

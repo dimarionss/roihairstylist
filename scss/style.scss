@@ -1,5 +1,8 @@
 @import 'bootstrap/bootstrap';
 @import 'bootstrap/variables';
+@import 'masterblock/blockstyle';
+@import 'masterblock/zapiskurs';
+@import 'masterblock/zayavka';
 
 $font-primary: 'Work Sans',Arial, sans-serif;
 
@@ -285,7 +288,8 @@ h1, h2, h3, h4, h5,
 		bottom: 0;
 		content: '';
 		opacity: .97;
-		@include gradient-background();
+		background: url(../images/wedding_day.jpg) center;
+    background-size: cover;
 	}
 }
 
