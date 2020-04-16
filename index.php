@@ -18,7 +18,7 @@ $user->createTempUser();
 $user->loadUser();
 $site->sendZayavka();
 $user->createUser();
-//$site->telegramMessage();
+$site->telegramMessage();
 $site->counterClient();
 $user->resetUserAndGoHome();
 //$user->loadCart();

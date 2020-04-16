@@ -46,6 +46,8 @@ class Site
 
 
     }
+    /* https://api.telegram.org/bot1034295124:AAFsmvc9IBp3ELKgtaGYbMFiw9WVn5G-MoA/getUpdates,
+где, XXXXXXXXXXXXXXXXXXXXXXX - токен вашего бота, полученный ранее */
     function telegramMessage()
     {
         global $txt;
@@ -72,12 +74,6 @@ class Site
                     $txt .= "<b>" . $key . "</b> " . $value . "%0A";
                 };
                 $sendToTelegram = fopen("https://api.telegram.org/bot{$token}/sendMessage?chat_id={$chat_id}&parse_mode=html&text={$txt}", "r");
-
-                if ($sendToTelegram) {
-                    header('Location: thank-you.html');
-                } else {
-                    echo "Error";
-                }
             }
         }
     }

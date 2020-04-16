@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/views/header.php" line="40" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98495e0a-1dbb-4bb5-82e8-742bb43a2933" name="Default" comment="" />
+    <list default="true" id="98495e0a-1dbb-4bb5-82e8-742bb43a2933" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,214 +17,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.62417436">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="user.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/classes/user.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="4488">
-                  <caret line="287" column="68" selection-start-line="287" selection-start-column="68" selection-end-line="287" selection-end-column="68" />
-                  <folding>
-                    <element signature="n#calculate_price#0;n#User#0;n#!!top" />
-                    <element signature="n#unsetCart#0;n#User#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bd.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bd.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="user.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../royssite/classes/user.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="4334">
-                  <caret line="290" column="32" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="32" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="site.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/classes/site.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="655">
-                  <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-                  <folding>
-                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-                    <element signature="e#269#275#0" expanded="true" />
-                    <element signature="e#313#319#0" expanded="true" />
-                    <element signature="e#355#361#0" expanded="true" />
-                    <element signature="e#401#407#0" expanded="true" />
-                    <element signature="e#451#457#0" expanded="true" />
-                    <element signature="e#494#500#0" expanded="true" />
-                    <element signature="e#683#689#0" expanded="true" />
-                    <element signature="e#803#809#0" expanded="true" />
-                    <element signature="e#887#893#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="site.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../royssite/classes/site.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#0#6#0" expanded="true" />
-                    <element signature="e#6#12#0" expanded="true" />
-                    <element signature="e#12#18#0" expanded="true" />
-                    <element signature="e#18#24#0" expanded="true" />
-                    <element signature="e#24#30#0" expanded="true" />
-                    <element signature="e#30#36#0" expanded="true" />
-                    <element signature="e#36#42#0" expanded="true" />
-                    <element signature="e#42#48#0" expanded="true" />
-                    <element signature="e#48#54#0" expanded="true" />
-                    <element signature="e#0#6#0" expanded="true" />
-                    <element signature="e#6#12#0" expanded="true" />
-                    <element signature="e#12#18#0" expanded="true" />
-                    <element signature="e#18#24#0" expanded="true" />
-                    <element signature="e#24#30#0" expanded="true" />
-                    <element signature="e#30#36#0" expanded="true" />
-                    <element signature="e#36#42#0" expanded="true" />
-                    <element signature="e#42#48#0" expanded="true" />
-                    <element signature="e#48#54#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/main.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1972">
-                  <caret line="376" column="100" selection-start-line="376" selection-start-column="100" selection-end-line="376" selection-end-column="100" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="blog-single.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/views/blog-single.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="431">
-                  <caret line="142" column="42" lean-forward="true" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="shout.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/shout.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="portfolio-single.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/portfolio-single.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="440">
-                  <caret line="125" column="70" lean-forward="true" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="70" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="zapis.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/zapis.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="29" selection-start-column="29" selection-end-column="29" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="zapiskurs.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/zapiskurs.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="65" column="43" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="43" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="myscripts.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/myscripts.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
-                  <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="355">
-                  <caret line="10578" lean-forward="true" selection-start-line="10578" selection-end-line="10578" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="site.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/classes/site.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="51" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="site.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../royssite/classes/site.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1156">
-                  <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="54" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../royssite/resource/views/main.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2159">
-                  <caret line="127" column="29" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/footer.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1343">
-                  <caret line="79" selection-start-line="79" selection-end-line="79" selection-end-column="44" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zapis.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/zapis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zapiskurs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/zapiskurs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="65" column="43" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/site.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="e#269#275#0" expanded="true" />
+                <element signature="e#313#319#0" expanded="true" />
+                <element signature="e#355#361#0" expanded="true" />
+                <element signature="e#401#407#0" expanded="true" />
+                <element signature="e#451#457#0" expanded="true" />
+                <element signature="e#494#500#0" expanded="true" />
+                <element signature="e#683#689#0" expanded="true" />
+                <element signature="e#803#809#0" expanded="true" />
+                <element signature="e#887#893#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="telegram.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/telegram.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="69" />
+              <folding>
+                <element signature="e#7#166#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -258,6 +116,9 @@
       <replace>Стилист-парикмахер</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -284,7 +145,6 @@
         <option value="$PROJECT_DIR$/views/header.php" />
         <option value="$PROJECT_DIR$/views/zapis.php" />
         <option value="$PROJECT_DIR$/views/zapiskurs.php" />
-        <option value="$PROJECT_DIR$/classes/site.php" />
         <option value="$PROJECT_DIR$/views/main.php" />
         <option value="$PROJECT_DIR$/../royssite/classes/site.php" />
         <option value="$PROJECT_DIR$/lib/index.html" />
@@ -293,8 +153,9 @@
         <option value="$PROJECT_DIR$/lib/index.php" />
         <option value="$PROJECT_DIR$/js/myscripts.js" />
         <option value="$PROJECT_DIR$/lib/shout.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/views/blog-single.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/classes/site.php" />
       </list>
     </option>
   </component>
@@ -315,11 +176,15 @@
     <option name="width" value="1642" />
     <option name="height" value="683" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,12 +195,12 @@
             <path>
               <item name="hairstylist2" type="b2602c69:ProjectViewProjectNode" />
               <item name="hairstylist2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hairstylist2" type="b2602c69:ProjectViewProjectNode" />
               <item name="hairstylist2" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hairstylist2" type="b2602c69:ProjectViewProjectNode" />
@@ -346,7 +211,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,23 +256,24 @@
       <workItem from="1584094173202" duration="6265000" />
       <workItem from="1584113375654" duration="14754000" />
       <workItem from="1584340249042" duration="20297000" />
+      <workItem from="1587049296154" duration="1238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114323000" />
+    <option name="totallyTimeSpent" value="115561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21145834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32900432" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -430,13 +295,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../roys.com/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/contact.php" />
     <entry file="file://$PROJECT_DIR$/views/services.php" />
     <entry file="file://$PROJECT_DIR$/views/about.php">
@@ -454,40 +312,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../roys.com/bd.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../roys.com/resource/views/authoriz.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../roys.com/bd.php" />
+    <entry file="file://$PROJECT_DIR$/../roys.com/resource/views/authoriz.php" />
     <entry file="file://$PROJECT_DIR$/../roys.com/lib/functions.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../roys.com/resource/views/main.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/contact.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/sumgood.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-368" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/bd.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/lib/SendMailSmtpClass.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/shop.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/exit.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../roys.com/resource/views/main.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/contact.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/sumgood.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/bd.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/lib/SendMailSmtpClass.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/shop.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/exit.php" />
     <entry file="file://$PROJECT_DIR$/views/instagram.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -495,17 +331,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/zayavka.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/good.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/cart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1105" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/zayavka.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/good.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/cart.php" />
     <entry file="file://$PROJECT_DIR$/views/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
@@ -520,47 +348,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/authoriz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/registration.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/authoriz.php" />
     <entry file="file://$PROJECT_DIR$/views/authoriz.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/exit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/views/exit.php" />
     <entry file="file://$PROJECT_DIR$/classes/arraybd.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="52" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/header.php" />
     <entry file="file://$PROJECT_DIR$/views/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -573,48 +374,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/zapiskurs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sendMessage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="127" column="29" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/portfolio-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="125" column="70" lean-forward="true" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sendMessage.php" />
+    <entry file="file://$PROJECT_DIR$/lib/index.html" />
+    <entry file="file://$PROJECT_DIR$/../royssite/resource/views/main.php" />
+    <entry file="file://$PROJECT_DIR$/lib/index.php" />
     <entry file="file://$PROJECT_DIR$/js/particle.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -630,58 +393,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/zapis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/classes/user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4334">
-          <caret line="290" column="32" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-518">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../royssite/classes/user.php" />
+    <entry file="file://$PROJECT_DIR$/../royssite/index.php" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="10578" lean-forward="true" selection-start-line="10578" selection-end-line="10578" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/myscripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/shout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="179826">
+          <caret line="10578" selection-start-line="10578" selection-end-line="10578" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/user.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4488">
+        <state relative-caret-position="4641">
           <caret line="287" column="68" selection-start-line="287" selection-start-column="68" selection-end-line="287" selection-end-column="68" />
           <folding>
             <element signature="n#calculate_price#0;n#User#0;n#!!top" />
@@ -690,44 +413,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/../royssite/classes/site.php" />
+    <entry file="file://$PROJECT_DIR$/bd.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../royssite/classes/site.php">
+    <entry file="file://$PROJECT_DIR$/views/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="376" column="100" selection-start-line="376" selection-start-column="100" selection-end-line="376" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/blog-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="142" column="42" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/portfolio-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="125" column="70" selection-start-line="125" selection-start-column="51" selection-end-line="125" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myscripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/zapis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/zapiskurs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/telegram.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="69" />
           <folding>
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#6#12#0" expanded="true" />
-            <element signature="e#12#18#0" expanded="true" />
-            <element signature="e#18#24#0" expanded="true" />
-            <element signature="e#24#30#0" expanded="true" />
-            <element signature="e#30#36#0" expanded="true" />
-            <element signature="e#36#42#0" expanded="true" />
-            <element signature="e#42#48#0" expanded="true" />
-            <element signature="e#48#54#0" expanded="true" />
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#6#12#0" expanded="true" />
-            <element signature="e#12#18#0" expanded="true" />
-            <element signature="e#18#24#0" expanded="true" />
-            <element signature="e#24#30#0" expanded="true" />
-            <element signature="e#30#36#0" expanded="true" />
-            <element signature="e#36#42#0" expanded="true" />
-            <element signature="e#42#48#0" expanded="true" />
-            <element signature="e#48#54#0" expanded="true" />
+            <element signature="e#7#166#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/site.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+        <state relative-caret-position="289">
+          <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
             <element signature="e#269#275#0" expanded="true" />
@@ -740,20 +503,6 @@
             <element signature="e#803#809#0" expanded="true" />
             <element signature="e#887#893#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="376" column="100" selection-start-line="376" selection-start-column="100" selection-end-line="376" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/blog-single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="142" column="42" lean-forward="true" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
         </state>
       </provider>
     </entry>
