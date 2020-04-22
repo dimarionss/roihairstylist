@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/views/header.php" line="40" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98495e0a-1dbb-4bb5-82e8-742bb43a2933" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/site.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="98495e0a-1dbb-4bb5-82e8-742bb43a2933" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +17,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -39,7 +35,7 @@
       <file leaf-file-name="zapiskurs.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/zapiskurs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="1105">
               <caret line="65" column="43" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="43" />
             </state>
           </provider>
@@ -49,30 +45,9 @@
         <entry file="file://$PROJECT_DIR$/classes/site.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+              <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
               <folding>
-                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-                <element signature="e#269#275#0" expanded="true" />
-                <element signature="e#313#319#0" expanded="true" />
-                <element signature="e#355#361#0" expanded="true" />
-                <element signature="e#401#407#0" expanded="true" />
-                <element signature="e#451#457#0" expanded="true" />
-                <element signature="e#494#500#0" expanded="true" />
-                <element signature="e#683#689#0" expanded="true" />
-                <element signature="e#803#809#0" expanded="true" />
                 <element signature="e#887#893#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="telegram.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/telegram.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="69" />
-              <folding>
-                <element signature="e#7#166#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,8 +146,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="248" />
+    <option name="x" value="298" />
+    <option name="y" value="141" />
     <option name="width" value="1642" />
     <option name="height" value="683" />
   </component>
@@ -184,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,6 +185,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,17 +232,18 @@
       <workItem from="1584113375654" duration="14754000" />
       <workItem from="1584340249042" duration="20297000" />
       <workItem from="1587049296154" duration="1238000" />
+      <workItem from="1587235171742" duration="1575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115561000" />
+    <option name="totallyTimeSpent" value="117136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21588486" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32900432" />
@@ -406,10 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4641">
           <caret line="287" column="68" selection-start-line="287" selection-start-column="68" selection-end-line="287" selection-end-column="68" />
-          <folding>
-            <element signature="n#calculate_price#0;n#User#0;n#!!top" />
-            <element signature="n#unsetCart#0;n#User#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -465,14 +437,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/zapiskurs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="1105">
           <caret line="65" column="43" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="43" />
         </state>
       </provider>
@@ -490,17 +462,8 @@
     <entry file="file://$PROJECT_DIR$/classes/site.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="64" column="50" lean-forward="true" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
+          <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
           <folding>
-            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#269#275#0" expanded="true" />
-            <element signature="e#313#319#0" expanded="true" />
-            <element signature="e#355#361#0" expanded="true" />
-            <element signature="e#401#407#0" expanded="true" />
-            <element signature="e#451#457#0" expanded="true" />
-            <element signature="e#494#500#0" expanded="true" />
-            <element signature="e#683#689#0" expanded="true" />
-            <element signature="e#803#809#0" expanded="true" />
             <element signature="e#887#893#0" expanded="true" />
           </folding>
         </state>

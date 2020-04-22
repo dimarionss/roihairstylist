@@ -35,17 +35,17 @@ $pieces_url = explode("/", $clear_url[0]);
 
 require_once "views/header.php";
 //если урл пустой обычно содержыт '/' то подключаем шаблон главной страницы
-if($url=='/' or $pieces_url[1]==''){
+if ($url == '/' or $pieces_url[1] == '') {
     require_once "views/main.php";
 }
 //если урл не пустой то читаем его первый елемент и подключаем нужный шаблон
-else{
+else {
 
     //проверяем есть ли такой файл в шаблонах если есть подключаем
     //если нету выводим шаблон 404
-    if(file_exists("views/".$pieces_url[1].".php")){
-        require_once "views/".$pieces_url[1].".php";
-    }else{
+    if (file_exists("views/" . $pieces_url[1] . ".php")) {
+        require_once "views/" . $pieces_url[1] . ".php";
+    } else {
         require_once "views/404.php";
     }
 }
